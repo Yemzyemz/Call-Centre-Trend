@@ -15,6 +15,9 @@ The dataset was meticulously cleaned by handling missing values, removing duplic
 **Data Analysis:**
 The data was analyzed using DAX formulas to create measures that accurately capture the essential KPIs.
 
+![Call Centre report pic](https://github.com/user-attachments/assets/18169630-d66f-4de2-a067-6a46a20ffcbc)
+
+
 **Key Insights:**
 - **Call Volume:** The total call volume was 5,000 calls.
 - **Abandoned Calls:** Out of the total, 946 calls were abandoned, indicating a potential area for improvement in customer wait times and service efficiency.
